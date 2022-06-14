@@ -43,3 +43,7 @@ html, body{
     float: right;
     margin: 0 20px;
 }
+
+.sem_veiculo{
+    font-size: 30px;
+}
