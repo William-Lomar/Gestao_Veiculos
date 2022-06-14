@@ -1,0 +1,1 @@
+Aplicação desenvolvida em PHP e banco de dados MySql com objetivo de gerenciar dados de veículos assim como gerar um log de utilização de cada veículo cadastrado.   
