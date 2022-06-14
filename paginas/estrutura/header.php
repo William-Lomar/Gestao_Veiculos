@@ -41,6 +41,9 @@ $veiculos = Banco::newSelectAll('carros');
             ?>
           </ul>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="https://github.com/William-Lomar/Gestao_Veiculos">GitHub</a>
+        </li>
       </ul>
     </div>
   </div>
